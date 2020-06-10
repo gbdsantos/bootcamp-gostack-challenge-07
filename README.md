@@ -5,7 +5,7 @@
 # :trophy: Challenge 07: Go Finances Web
 
 <p align="center">
-    <img alt="Github language count" src="  https://img.shields.io/github/languages/count/gbdsantos/bootcamp-gostack-challenge-07">
+    <img alt="Github language count" src="https://img.shields.io/github/languages/count/gbdsantos/bootcamp-gostack-challenge-07">
 
   <img alt="Github language count" src="https://img.shields.io/github/languages/top/gbdsantos/bootcamp-gostack-frontend-03">
 
