@@ -29,9 +29,7 @@ This application will connect to your challenge 06 backend and show you the tran
 
 [:brazil: URL to challenge description](https://github.com/Rocketseat/bootcamp-gostack-desafios/tree/master/desafio-fundamentos-reactjs)
 
-Challenge completed on 2020-XX-xx.
-
-## Demo
+Challenge completed on 2020-06-11.
 
 ## :gear: Getting Started
 
@@ -49,10 +47,6 @@ yarn start
 
 - [ReactJS](https://nodejs.org/en/)
 - [Typescript](https://reactjs.org/)
-
-## 🛠️ Tools
-
-<img alt="" src="" />
 
 ## :man_astronaut: Author
 
